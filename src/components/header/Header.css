@@ -39,7 +39,6 @@
   background-color: orange;
   position: absolute;
   transition: 1s;
-  /* border-bottom: 1px solid red; */
 }
 
 .headerContainer > ul > li:hover::after {
